@@ -41,20 +41,6 @@ A component that accesses the context values using the `useContext` hook.
 ### 4. `useContext`
 A hook that takes the context object as an argument and returns the context values.
 
-## Key Concepts
-
-### 1. Context
-A centralized store of data that can be accessed by any component in the application.
-
-### 2. Provider
-A component that provides the context values to all components.
-
-### 3. Consumer
-A component that accesses the context values using the `useContext` hook.
-
-### 4. `useContext`
-A hook that takes the context object as an argument and returns the context values.
-
 ### Implementation Details
 
 #### `AppContext.js`
